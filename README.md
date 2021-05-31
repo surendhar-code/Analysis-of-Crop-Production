@@ -5,16 +5,15 @@
 ### Project Explanation Video : [Click here to see the video](https://youtu.be/bi9iJYxqblE)
 ## OVERVIEW
 <img src="https://iti.directory/sites/iti.directory/files/ITI-trade-Horticulture.jpg" /> <br>
-**1. Horticulture is the art of cultivating plants in gardens to produce food and 
-medicinal ingredients, or for comfort and ornamental purposes. **
-**2. Horticulturists grow flowers, spices, fruits and nuts, vegetables and herbs, as well as ornamental trees and lawns. **
-**3. In this project, I am going to analyse the area production and productivity of spices from 2008 - 2011 data and make a storyboard report using Tableau to understand the production and productivity of spices effectively. **
+1. Horticulture is the art of cultivating plants in gardens to produce food and medicinal ingredients, or for comfort and ornamental purposes.
+2. Horticulturists grow flowers, spices, fruits and nuts, vegetables and herbs, as well as ornamental trees and lawns. 
+3. In this project, I am going to analyse the area production and productivity of spices from 2008 - 2011 data and make a storyboard report using Tableau to understand the production and productivity of spices effectively. 
 ## PURPOSE
 <img src="https://objectiveit.com/wp-content/uploads/2018/12/unlock-data-insights.png" /> <br>
 
-**To unlock the insights that are not visible before, understand the patterns much 
+To unlock the insights that are not visible before, understand the patterns much 
 more effectively in the data, present the data in much more presentable form that can be easily 
-understand by Horticulturists to take certain decisions effectively.**
+understand by Horticulturists to take certain decisions effectively.
 ## ABOUT DATASET
 <img src="https://s3.amazonaws.com/di-newsletter/images/mobile/dd/11.png" data-align="center"/> <br>
 1. The dataset downloaded from data.gov.in website. 
@@ -72,6 +71,6 @@ The result of the project is the **interactive Storyboard**.
 * Easy to spot the errors. 
 ## CONCLUSION
 <img src="https://cdn.pixabay.com/photo/2020/12/25/10/18/conclusion-5859031_1280.jpg" /> <br>
-**1. The data was collected and analysed well. **
-**2. The effective visualizations and interactive storyboard were created. **
-**3. So that Horticulturists found useful insights and helped him/her to take effective decisions. **
+1. The data was collected and analysed well.
+2. The effective visualizations and interactive storyboard were created.
+3. So that Horticulturists found useful insights and helped him/her to take effective decisions.
